@@ -1,0 +1,3 @@
+0xc3130a5e	mem_phy_addr	/home/ljb/minimap2/mem_drv/mem_drv	EXPORT_SYMBOL
+0xa35383b1	mem_phy_offset	/home/ljb/minimap2/mem_drv/mem_drv	EXPORT_SYMBOL
+0x33cafdde	mem_vir_addr	/home/ljb/minimap2/mem_drv/mem_drv	EXPORT_SYMBOL
